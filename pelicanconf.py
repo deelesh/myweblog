@@ -21,7 +21,7 @@ DEFAULT_METADATA = {
 TYPOGRIFY = True
 
 #Settings for processing markdown files
-MD_EXTENSIONS = ['extra', 'toc', 'fenced_code', 'codehilite(css_class=highlight, linenums=False)']
+MD_EXTENSIONS = ['extra', 'toc', 'fenced_code', 'codehilite(css_class=highlight)']
 
 # Settings specific to notmyidea default theme
 #GITHUB_URL = 'https://github.com/deelesh'
